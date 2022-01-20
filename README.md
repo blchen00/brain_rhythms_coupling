@@ -5,7 +5,7 @@ B. Chen, L. Ciria, C. Hu, P. Ivanov, "Ensemble of coupling forms and network dyn
 
 The raw, un-identified EEG time series data can be found at the REXCO Project website, https://doi.org/10.5281/zenodo.1237654.
 
-The generated data (including power spectra, correlations, degrees of coupling, etc.) that are used to plot figures are too large to be uploaded to GitHub, but they are accessible at
+The generated data (including power spectra, correlations, degrees of coupling, etc.) are accessible at 
 
 Supplementary information for the paper, including supplementary figures and generated data (as Execel spreadsheets), is available at https://doi.org/10.1038/s42003-022-03017-4.
 
